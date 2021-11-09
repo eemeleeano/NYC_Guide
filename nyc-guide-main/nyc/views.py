@@ -1,3 +1,4 @@
+from django.http import request
 from django.shortcuts import render
 from .boroughs import boroughs
 
@@ -11,7 +12,8 @@ def borough(request, borough):
 
 # Create your views here.
 def activity():
-    pass
+    if request.method == 'GET':
+        return render(request=request, template_name='activities.html', context={ 'borough': borough, 'beaches' : borough[borough].keys() })
 
 def venue():
     pass
