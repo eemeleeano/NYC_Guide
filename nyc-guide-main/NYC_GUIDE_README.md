@@ -9,11 +9,11 @@ Get around the five boroughs using our guide. There are a wide variety of places
 <ul>
 <li>a. In your finder(Mac) or file expolere(Windows) go to the NYC_GUIDE</li>
 
-<li>b. In the terminal cd into the NYC_GUIDE directory and type</li>
+<li>In the terminal cd into the NYC_GUIDE directory and type</li>
 
-<li>c. python3 -m venv venv</li>
+<li>python3 -m venv venv</li>
 
-<li>d. Call your virtual environment "venv"</li>
+<li>Call your virtual environment "venv"</li>
 </ul>
 <ul>
 
@@ -31,7 +31,7 @@ Get around the five boroughs using our guide. There are a wide variety of places
 <li>source django/bin/activate</li>
 </ul>
 
-4. Installing Django  
+ <h3>Installing Django</h3>  
 <ul>
 <li>pip install django</li>
 <li>theb run pip freeze > requirements.txt</li>
