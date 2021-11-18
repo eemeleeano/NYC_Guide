@@ -1,4 +1,4 @@
-![banner](./images/brookly_banner.jpg)
+![banner](./images/brooklyn_banner.jpg)
 Authors: [Fatima Monteiro](https://github.com/timamonteiro) & [Emiliano Lopez](https://github.com/eemeleeano/NYC_Guide/edit/master/README.md)
 <br>
 
